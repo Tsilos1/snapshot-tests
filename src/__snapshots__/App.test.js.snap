@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="Tsilos' profile image"
+      className="card-img-top"
+      src="profilePic.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Tsilos Kosbab
+      </div>
+      <p
+        className="card-text"
+      >
+        Tsilos is a software development student who is learning how to do a snapshot test.
+      </p>
+    </div>
+  </div>
+</div>
+`;
