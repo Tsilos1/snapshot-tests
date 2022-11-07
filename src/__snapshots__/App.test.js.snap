@@ -30,6 +30,9 @@ exports[`renders a snapshot 1`] = `
       >
         Tsilos is a software development student who is learning how to do a snapshot test.
       </p>
+      <h1>
+        Testing this h1
+      </h1>
     </div>
   </div>
 </div>

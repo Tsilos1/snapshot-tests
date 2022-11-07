@@ -8,9 +8,9 @@ import App from './App';
 //   expect(tree).toMatchSnapshot()
 // })
 
-test('renders text Tsilos Kosbab', () => {
+test('renders text testing this h1', () => {
   render(<App />)
-  const nameElement = screen.getByText(/Tsilos Kosbab/i)
+  const nameElement = screen.getByText(/Testing this h1/i)
   expect(nameElement).toBeInTheDocument()
 });
 

@@ -10,6 +10,7 @@ export default function GitHubCard() {
           <Card.Text>
             Tsilos is a software development student who is learning how to do a snapshot test.
           </Card.Text>
+          <h1>Testing this h1</h1>
         </Card.Body>
       </Card>
 
